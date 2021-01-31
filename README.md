@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ad-si/ad-si** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently focusing on helping companies 
+streamline their businesses with
+cloud based architectures and processes.
 
-Here are some ideas to get you started:
+Among the services my company [Feram](https://www.feram.io) 
+offers to achieve this are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fullstack website / webapp development
+- Salesforce installations
+- Collaboration infrastructure based on NextCloud
+
+Check out our website [feram.io](https://www.feram.io)
+and don't hestitat to contact me if you're interested
+in working with us! 😊
