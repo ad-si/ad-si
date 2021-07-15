@@ -8,8 +8,8 @@ Among the services my company [@feramhq]
 offers to achieve this are:
 
 - Fullstack website / webapp development
-- Salesforce installations
-- Collaboration infrastructure based on NextCloud
+- SaaS platform development, deployment, and maintainance
+- Workflows and data pipelines
 
 Check out our website [feram.io]
 and don't hestitat to contact me if you're interested
