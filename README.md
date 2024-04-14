@@ -13,12 +13,13 @@ Sometimes I write blog posts at [adriansieber.com](https://adriansieber.com).
 Haskell | Elm | PureScript | Rust | Other | Awesome Lists
 --- | --- | --- | --- | --- | ---
 [Perspec] | [Vectual] | [Transity] | [Rust Flashcards] | [RosettaGit] (HTML) | [music-production]
-[TaskLite] | [Airsequel Sheet Music] | | [Textalyzer] | [Invoice Maker] (Typst) | [sheet-music]
-[SQLiteDAV] | | | [Oclis] | [Shaven] (JS) | [3d-printing]
-[`uku`] | | | [`tu`] | [Scikit Image Cheatsheet] (Python) | [scanning]
- | | | | | [Dotfiles] (Shell) | [lego]
+[TaskLite] | [Airsequel Sheet Music] | | [`cai`] | [Invoice Maker] (Typst) | [sheet-music]
+[SQLiteDAV] | | | [`tu`] | [Shaven] (JS) | [3d-printing]
+[`uku`] | | | [Textalyzer] | [Scikit Image Cheatsheet] (Python) | [scanning]
+ | | | | [Oclis] | [Dotfiles] (Shell) | [lego]
  | | | | | [Perspectra] (Python) | [nix-companies]
 
+[`cai`]: https://github.com/ad-si/cai
 [`tu`]: https://github.com/ad-si/tu
 [`uku`]: https://github.com/ad-si/uku
 [3d-printing]: https://github.com/ad-si/awesome-3d-printing
