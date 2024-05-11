@@ -48,8 +48,8 @@ Sometimes I write blog posts at [adriansieber.com](https://adriansieber.com).
       <ul>
         <li><strong>JavaScript:</strong>
           <ul>
-            <li><a href="https://github.com/educatopia/educatopia">Educatopia</a> (JS, MongoDB)</li>
-            <li><a href="https://github.com/ad-si/Shaven">Shaven</a> (JS)</li>
+            <li><a href="https://github.com/educatopia/educatopia">Educatopia</a> (Node.js, MongoDB)</li>
+            <li><a href="https://github.com/ad-si/Shaven">Shaven</a></li>
           </ul>
         </li>
       </ul>
