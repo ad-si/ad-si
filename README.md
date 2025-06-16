@@ -14,63 +14,68 @@ Sometimes I write blog posts at [adriansieber.com](https://adriansieber.com).
   <tr>
     <td> <!-- column 1 -->
       <ul>
-        <li><strong>Haskell:</strong>
+        <li><strong>Productivity:</strong>
           <ul>
-            <li><a href="https://github.com/ad-si/Perspec">Perspec</a></li>
-            <li><a href="https://tasklite.org">TaskLite</a></li>
-            <li><a href="https://github.com/Airsequel/SQLiteDAV">SQLiteDAV</a></li>
-            <li><a href="https://github.com/ad-si/uku">uku</a></li>
+            <li><a href="https://tasklite.org">TaskLite</a> <small>(Haskell)</small></li>
+            <li><a href="https://github.com/ad-si/Transity">Transity</a> <small>(PureScript)</small></li>
+            <li><a href="https://github.com/ad-si/Invoice-Maker">Invoice Maker</a> <small>(Typst)</small></li>
+            <li><a href="https://github.com/ad-si/dotfiles">Dotfiles</a> <small>(Bash, Dash, Lua)</small></li>
           </ul>
         </li>
-        <li><strong>Elm:</strong>
+        <li><strong>Computer Vision:</strong>
           <ul>
-            <li><a href="https://github.com/Airsequel/Airsequel-Sheet-Music">Airsequel Sheet Music</a></li>
-            <li><a href="https://github.com/ad-si/Vectual">Vectual</a></li>
+            <li><a href="https://github.com/ad-si/Perspec">Perspec</a> <small>(Haskell)</small></li>
+            <li><a href="https://github.com/ad-si/Perspectra">Perspectra</a> <small>(Python)</small></li>
+            <li><a href="https://github.com/ad-si/FlatCV">FlatCV</a> <small>(C)</small></li>
+            <li><a href="https://github.com/ad-si/awesome-scanning">Awesome Scanning</a></li>
+            <li><a href="https://github.com/ad-si/Scikit-Image-Cheatsheet">Scikit Image Cheatsheet</a> <small>(Python)</small></li>
           </ul>
         </li>
-        <li><strong>PureScript:</strong>
+        <li><strong>SQLite:</strong>
           <ul>
-            <li><a href="https://github.com/ad-si/Transity">Transity</a></li>
+            <li><a href="https://github.com/Airsequel/AirGQL">AirGQL</a> <small>(Haskell)</small></li>
+            <li><a href="https://github.com/Airsequel/SQLiteDAV">SQLiteDAV</a> <small>(Haskell)</small></li>
           </ul>
         </li>
-        <li><strong>Rust:</strong>
+        <li><strong>Music:</strong>
           <ul>
-            <li><a href="https://github.com/ad-si/tu">tu</a></li>
-            <li><a href="https://github.com/ad-si/cai">cai</a></li>
-            <li><a href="https://github.com/Airsequel/Oclis">Oclis</a></li>
-            <li><a href="https://github.com/ad-si/Rust-Flashcards">Rust Flashcards</a></li>
-            <li><a href="https://github.com/ad-si/Textalyzer">Textalyzer</a></li>
+            <li><a href="https://github.com/Airsequel/Airsequel-Sheet-Music">Airsequel Sheet Music</a> <small>(Elm)</small></li>
+            <li><a href="https://github.com/ad-si/uku">uku</a> <small>(Haskell)</small></li>
+            <li><a href="https://github.com/ad-si/awesome-music-production">Awesome Music Production</a></li>
+            <li><a href="https://github.com/ad-si/awesome-sheet-music">Awesome Sheet Music</a></li>
           </ul>
         </li>
       </ul>
     </td>
     <td> <!-- column 2 -->
       <ul>
-        <li><strong>JavaScript:</strong>
+        <li><strong>CLI:</strong>
           <ul>
-            <li><a href="https://github.com/educatopia/educatopia">Educatopia</a> (Node.js, MongoDB)</li>
-            <li><a href="https://github.com/ad-si/Shaven">Shaven</a></li>
+            <li><a href="https://github.com/ad-si/tu">tu</a> <small>(Rust)</small></li>
+            <li><a href="https://github.com/ad-si/cai">cai</a> <small>(Rust)</small></li>
+            <li><a href="https://github.com/Airsequel/Oclis">Oclis</a> <small>(Rust)</small></li>
+            <li><a href="https://github.com/ad-si/Textalyzer">Textalyzer</a> <small>(Rust)</small></li>
           </ul>
         </li>
-      </ul>
-      <ul>
-        <li><strong>Other:</strong>
+        <li><strong>CAD:</strong>
           <ul>
-            <li><a href="https://github.com/ad-si/RosettaGit">RosettaGit</a> (HTML)</li>
-            <li><a href="https://github.com/ad-si/Invoice-Maker">Invoice Maker</a> (Typst)</li>
-            <li><a href="https://github.com/ad-si/Perspectra">Perspectra</a> (Python)</li>
-            <li><a href="https://github.com/ad-si/Scikit-Image-Cheatsheet">Scikit Image Cheatsheet</a> (Python)</li>
-            <li><a href="https://github.com/ad-si/dotfiles">Dotfiles</a> (Bash, Dash)</li>
+            <li><a href="https://github.com/ad-si/LuaCAD">LuaCAD</a> <small>(Lua)</small></li>
+            <li><a href="https://github.com/ad-si/awesome-3d-printing">Awesome 3D Printing</a></li>
           </ul>
         </li>
-        <li><strong>Awesome Lists:</strong>
+        <li><strong>Education / Knowledge:</strong>
           <ul>
-            <li><a href="https://github.com/ad-si/awesome-music-production">music-production</a></li>
-            <li><a href="https://github.com/ad-si/awesome-sheet-music">sheet-music</a></li>
-            <li><a href="https://github.com/ad-si/nix-companies">nix-companies</a></li>
-            <li><a href="https://github.com/ad-si/awesome-3d-printing">3d-printing</a></li>
-            <li><a href="https://github.com/ad-si/awesome-scanning">scanning</a></li>
-            <li><a href="https://github.com/ad-si/awesome-lego">lego</a></li>
+            <li><a href="https://github.com/educatopia/educatopia">Educatopia</a> <small>(TypeScript)</small></li>
+            <li><a href="https://github.com/ad-si/Rust-Flashcards">Rust Flashcards</a></li>
+            <li><a href="https://github.com/ad-si/RosettaGit">RosettaGit</a> <small>(Website)</small></li>
+            <li><a href="https://github.com/ad-si/nix-companies">Awesome Nix Companies</a></li>
+            <li><a href="https://github.com/ad-si/awesome-lego">Awesome LEGO</a></li>
+          </ul>
+        </li>
+        <li><strong>Libraries:</strong>
+          <ul>
+            <li><a href="https://github.com/ad-si/Vectual">Vectual</a> <small>(Elm)</small></li>
+            <li><a href="https://github.com/ad-si/Shaven">Shaven</a> <small>(JavaScript)</small></li>
           </ul>
         </li>
       </ul>
