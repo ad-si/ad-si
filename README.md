@@ -55,6 +55,7 @@ Sometimes I write blog posts at [adriansieber.com](https://adriansieber.com).
             <li><a href="https://github.com/ad-si/cai">cai</a> <small>(Rust)</small></li>
             <li><a href="https://github.com/Airsequel/Oclis">Oclis</a> <small>(Rust)</small></li>
             <li><a href="https://github.com/ad-si/Textalyzer">Textalyzer</a> <small>(Rust)</small></li>
+            <li><a href="https://github.com/ad-si/Woxi">Woxi</a> <small>(Rust)</small></li>
           </ul>
         </li>
         <li><strong>CAD:</strong>
